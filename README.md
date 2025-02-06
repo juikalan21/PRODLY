@@ -1,1 +1,2 @@
-# PRODLY---A-Project-Management-Application
+# PRODLY
+A project management Application
